@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /cv/
-title: Resume
+title: رزومه
 tags: [resume, cv]
 modified: 4-14-2019
 comments: false
@@ -26,6 +26,6 @@ comments: false
 
 
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+![Painting](https://maysagharehgozli.github.io/assets/images/4.jpg)
 
 
