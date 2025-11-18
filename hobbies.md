@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* Reading books
+* Traveling
 
 

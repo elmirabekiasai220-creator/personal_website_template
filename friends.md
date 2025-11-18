@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* [ریحان شعبانی](http://ReyhanShabani.github.io)
+* فاطمه عباسی
+* شبنم صفاری
 
 
 
