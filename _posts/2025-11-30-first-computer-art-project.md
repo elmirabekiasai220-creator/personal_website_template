@@ -1,16 +1,16 @@
 ---
 layout: posts
-title: Jungle
+title: My first computer art project
 ---
 
-#My first computer art project
 - This is a picture of a jungle created by python codes(turtle framework).
-- <br>
+<br>
 ![Jungle](../assets/images/jungle.png "Jungle")
 <br>
 
 - And this is how I did it:
 - Here you can see how I used this framework to paint the sky. I used a loop to make a gradiant background for my painting.
+
 ``` python
 import turtle
 import random
@@ -38,7 +38,9 @@ def sky():
             g = g - 1
             c = 0
 ```
--This is how to use Random framework to paint a jungle with trees of different colors and positions. Also I defined a new function to draw a house.
+
+- This is how to use Random framework to paint a jungle with trees of different colors and positions. Also I defined a new function to draw a house.
+
 ``` python
 def loc():
     x = random.randrange(-600, 0, 10)
@@ -142,7 +144,8 @@ def house():
         n.setheading(270)
         n.forward(100)
 ```
--This is the most important part. In this part I used recursive functions to draw snowflakes and trees.
+- This is the most important part. In this part I used recursive functions to draw snowflakes and trees.
+
 ``` python
 def shape(l, snowflake):
     if l < 6:
@@ -342,4 +345,4 @@ turtle.update()
 turtle.mainloop()
 ```
 
--Hope you enjoy my explanation!
+- Hope you enjoy my explanation!
